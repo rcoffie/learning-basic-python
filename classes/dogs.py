@@ -36,7 +36,10 @@ class Rottweiler(Dog):
 
 
 class Bull(Dog):
-    pass
+    def speak(self, sound="WOOOOOOO"):
+        """This print out the baking sound the that type of breed of dog make when you pass sound"""
+        return super().speak(sound)
+    
 
 
 dog_1 = Rottweiler("annny", 4)

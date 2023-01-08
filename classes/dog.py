@@ -22,3 +22,6 @@ my_dog = Dog("Zoha", 34)
 
 print(my_dog.sit())
 print(my_dog.roll_over())
+
+
+# creating mulitple instances

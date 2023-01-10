@@ -1,0 +1,4 @@
+i love python. 
+django is the best web framework for python especially for large projects. 
+fastAPI is the best option for building apis for small python applications. 
+python ML with python web frameworks is the best  combo. 
